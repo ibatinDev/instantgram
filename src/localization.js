@@ -46,7 +46,7 @@ export default {
       'index#program@alert_dontFound': 'Ops, hast du einen Instagram Post geöffnet? Zum Beispiel instagram.com/p/82jd828jd'
     },
     'es-AR': {
-      'helpers.localize_defaultlang': '[instantgram] elegir idioma: ${LANG_DEFAULT} \n Para más informacion acerca de los idiomas disponibles, por favor visite http://theus.github.io/instantgram',
+      'helpers.localize_defaultlang': '[instantgram] elegir idioma: ${LANG_DEFAULT} \n Para más información acerca de los idiomas disponibles, por favor visite http://theus.github.io/instantgram',
 
       'modules.update@oudated_outdated': '[instantgram] está desactualizado. Por favor visite http://theus.github.io/instantgram para ver actualizaciones.',
       'modules.update@oudated_localInfo': '[instantgram] Versión instalada: ${data.version} | Nueva actualización: ${data.gitVersion}',
@@ -55,7 +55,7 @@ export default {
       'modules.update@determineIfGetUpdateIsNecessary_@alert_found': '[instantgram] encontró una nueva actualización disponible.\nPor favor visite http://theus.github.io/instantgram para instalarla.',
 
       'index@alert_onlyWorks': '[instantgram] sólo funciona en instagram.com.',
-      'index#program#modal@alert_dontFound': "[instantgram] no encontró ninguna imagen en esta publicación de instagram. Por favor intente abrir el link en una nueva pestaña.",
+      'index#program#modal@alert_dontFound': "[instantgram] no encontró ninguna imagen en esta publicación de Instagram. Por favor intente abrir el link en una nueva pestaña.",
       'index#program#post@alert_dontFound': "Ups, [instantgram] no pudo encontrar ninguna imagen :-(",
       'index#program#screen@alert_dontFound': '[instantgram] encontró más de 1 imagen. ¿Estás en una página de perfil? Si es así, por favor ingresa en una publicación y luego abre [instantgram] nuevamente.',
       'index#program@alert_dontFound': 'Ups, abriste alguna publicación de Instagram? Por ejemplo instagram.com/p/82jd828jd'
